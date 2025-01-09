@@ -1,5 +1,5 @@
 {
-  "name": "@spatial-id/javascript-sdk",
+  "name": "@reearth/spatial-id-sdk",
   "version": "0.0.0",
   "description": "The reference implementation of the Spatial ID Object Model Specification for JavaScript or TypeScript consumers.",
   "main": "dist/index.js",
@@ -18,15 +18,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/spatial-id/javascript-sdk.git"
+    "url": "git+https://github.com/reearth/spatial-id-sdk"
   },
   "keywords": [],
   "author": "Geolonia (https://geolonia.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/spatial-id/javascript-sdk/issues"
+    "url": "https://github.com/reearth/spatial-id-sdk/issues"
   },
-  "homepage": "https://github.com/spatial-id/javascript-sdk#readme",
+  "homepage": "https://github.com/reearth/spatial-id-sdk#readme",
   "devDependencies": {
     "@rollup/plugin-commonjs": "^22.0.0",
     "@rollup/plugin-node-resolve": "^13.2.1",
